@@ -36,7 +36,7 @@
 <h2 align="center" style="color: #00C9A7; margin-top: 10px;">📈 Estatísticas e Contribuições</h2>
 
 <div align="center" style="margin-top: 5px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslcz&theme=dark&background=1a1a1a&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakNum=F0F0F0&currStreakLabel=AAAAAA&sideNums=F0F0F0&sideLabels=AAAAAA&dates=F0F0F0" alt="GitHub Streak" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslcz&layout=compact&theme=dark&title_color=00C9A7&icon_color=00C9A7&text_color=F0F0F0&bg_color=1a1a1a" height="150" alt="Top Languages" /> |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaslcz&theme=dark&background=1a1a1a&stroke=00C9A7&ring=00C9A7&fire=00C9A7&currStreakNum=F0F0F0&currStreakLabel=AAAAAA&sideNums=F0F0F0&sideLabels=AAAAAA&dates=F0F0F0" alt="GitHub Streak" height="150" /> | <img src="https://github-readme-stats-kohl-ten-28.vercel.app/api/top-langs/?username=lucaslcz&layout=compact&theme=dark&title_color=00C9A7&icon_color=00C9A7&text_color=F0F0F0&bg_color=1a1a1a" height="150" alt="Top Languages" /> |
 </div>
 
 <h2 align="center" style="color: #00C9A7; margin-top: 10px;">📫 Conecte-se Comigo</h2>
