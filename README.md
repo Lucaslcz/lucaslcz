@@ -42,7 +42,7 @@
 <h2 align="center" style="color: #00C9A7; margin-top: 10px;">📫 Conecte-se Comigo</h2>
 
 <div align="center" style="margin-top: 5px;">
-  <a href="https://www.linkedin.com/in/lucas-da-cruz-dias-659409339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-da-cruz-dias" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
